@@ -118,7 +118,7 @@ def main():
     
     Example queries:
     - "Solve the equation x^2 + 5x + 6 = 0"
-    - "Find the minimum and maximum values of x^3 + 3x^2 + 9"
+    - "Find the minimum and maximum values of x^2 - 4x + 3"
     - "What are the solutions to 2x^2 - 8 = 0?"
     """)
 
